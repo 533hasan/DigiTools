@@ -11,9 +11,6 @@ const PricingSection = () => {
 
           <p className="mt-4 text-gray-500 text-sm">
             Choose the plan that
-            <span className="bg-blue-500 text-white px-2 py-1 rounded-md mx-1 font-semibold">
-              1200 Fill × 66 Hug
-            </span>
             or downgrade anytime.
           </p>
         </div>
